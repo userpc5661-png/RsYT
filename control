@@ -1,0 +1,9 @@
+Package: com.riseyt.lite
+Name: RiseYT Lite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Core YouTube features only: ad blocking, background playback, PiP and SponsorBlock. No interface changes, no downloads.
+Maintainer: RiseYT Dev
+Author: RiseYT Dev
+Section: Tweaks
+Depends: mobilesubstrate
